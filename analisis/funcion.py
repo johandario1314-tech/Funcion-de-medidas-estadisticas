@@ -5,7 +5,7 @@
 #| code-summary: "Ver código completo"
 import pandas as pd
 
-def analizis_df(df):
+def analisis_df(df):
 
     # ─── Medidas ───────────────────────────────────────────────────
 
