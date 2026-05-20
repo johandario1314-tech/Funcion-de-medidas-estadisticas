@@ -136,6 +136,4 @@ La detección de duplicados utiliza una estructura `set` de Python, cuya verific
 
 ---
 
-## 📄 Licencia
 
-Este proyecto está disponible bajo la licencia [MIT](LICENSE).
